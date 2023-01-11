@@ -1,4 +1,4 @@
-# A-Literature-Review-on-Voltage-References
+# A Literature Review on Voltage References
 
 In this paper, the literature on voltage references
 are reviewed in detail. Comparison of 30 state-of-the-art voltage
